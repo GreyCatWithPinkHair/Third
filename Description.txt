@@ -1,0 +1,13 @@
+ADDED:
+    -Merege sort
+    -dialogue
+
+Time complexity:
+
+Bubble sort - O(n logn)
+Filling the array - O(n)
+Squarifying the array - O(n)
+Output from the array - O(n)
+Other processes - O(1)
+
+Toal - O(n logn)
